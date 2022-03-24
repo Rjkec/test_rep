@@ -1,0 +1,23 @@
+{
+  "name": "test_rep",
+  "version": "1.0.0",
+  "description": "just for testing",
+  "main": "test.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rjkec/test_rep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rjkec/test_rep/issues"
+  },
+  "homepage": "https://github.com/Rjkec/test_rep#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
